@@ -2,6 +2,9 @@
 
 A modern, engaging virtual betting game inspired by Plinko, built with pure JavaScript and advanced CSS animations. Experience the thrill of watching your bets cascade through a mesmerizing field of pegs to potentially multiply your winnings!
 
+![image](https://github.com/user-attachments/assets/a4a519c1-f663-484e-b55d-470fe067e339)
+
+
 ## ✨ Features
 
 - **Sleek Dark Mode Interface**: Modern dark theme UI with carefully crafted color schemes
@@ -66,6 +69,6 @@ A modern, engaging virtual betting game inspired by Plinko, built with pure Java
 
 #gaming #betting #javascript #html5 #css3 #webgame #plinko #physics #animation #darkmode
 
-## 📝 Short Description
+![og-image](https://github.com/user-attachments/assets/f922fde1-6ec2-45db-ad78-5309e19298c8)
 
-A sleek, modern take on the classic Plinko game featuring realistic physics, engaging betting mechanics, and a polished dark mode UI. Built with vanilla JavaScript and advanced CSS animations.
+
