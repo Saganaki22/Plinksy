@@ -1,6 +1,6 @@
 # 🎮 Plinksy - Virtual Betting Game
 
-A modern, engaging virtual betting game inspired by Plinko, built with pure JavaScript and advanced CSS animations. Experience the thrill of watching your bets cascade through a mesmerizing field of pegs to potentially multiply your winnings!
+A modern, engaging virtual betting game inspired by Plinko, built with pure JavaScript and advanced CSS animations. Experience the thrill of watching your bets cascade through a mesmerizing field of pegs to multiply your winnings potentially!
 
 ![image](https://github.com/user-attachments/assets/a4a519c1-f663-484e-b55d-470fe067e339)
 
